@@ -12,6 +12,7 @@ fun main(args: Array<String>) {
     println(isPalindrome(testNumber3))
 }
 
+// time complexity (log10(n)/2), space complexity 0(1)
 fun isPalindrome(num: Int): Boolean{
     var number = num
     val numberOfDigits = log10(number.toDouble()).toInt() + 1
