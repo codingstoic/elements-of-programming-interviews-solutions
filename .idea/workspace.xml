@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9224469-994e-4d06-b4ce-428010348ffc" name="Default" comment="" />
+    <list default="true" id="c9224469-994e-4d06-b4ce-428010348ffc" name="Default" comment="add problem">
+      <change afterPath="$PROJECT_DIR$/src/ch5PrimitiveTypes/5.6ComputeXdivY.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/elementsOfProgrammingInterviews/META-INF/elementsOfProgrammingInterviews.kotlin_module" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ReverseDigits.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/ReverseDigits.kt">
+      <file leaf-file-name="5.6ComputeXdivY.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.6ComputeXdivY.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="494">
+              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -30,26 +34,34 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Main.kt" />
         <option value="$PROJECT_DIR$/src/ch5PrimitiveTypes/IntersectingRects.kt" />
         <option value="$PROJECT_DIR$/src/ch5PrimitiveTypes/ReverseDigits.kt" />
+        <option value="$PROJECT_DIR$/src/ch5PrimitiveTypes/IsNumberPalindrome.kt" />
+        <option value="$PROJECT_DIR$/src/ch5PrimitiveTypes/5.10RandomNumberGenerator.kt" />
+        <option value="$PROJECT_DIR$/src/ch5PrimitiveTypes/5.7ComputeXxY.kt" />
+        <option value="$PROJECT_DIR$/src/ch5PrimitiveTypes/5.7ComputeXpowY.kt" />
+        <option value="$PROJECT_DIR$/src/ch5PrimitiveTypes/5.6ComputeXdivY.kt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -75,6 +87,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -89,38 +102,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.ch5PrimitiveTypes.ReverseDigitsKt">
+  <component name="RunManager" selected="Kotlin.ch5PrimitiveTypes._5_6ComputeXdivYKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="ch5PrimitiveTypes._5_10RandomNumberGeneratorKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="elementsOfProgrammingInterviews" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="MAIN_CLASS_NAME" value="ch5PrimitiveTypes._5_10RandomNumberGeneratorKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="ch5PrimitiveTypes.IntersectingRectsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="ch5PrimitiveTypes._5_5ComputeXxYKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="elementsOfProgrammingInterviews" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ch5PrimitiveTypes.IntersectingRectsKt" />
+      <option name="MAIN_CLASS_NAME" value="ch5PrimitiveTypes._5_5ComputeXxYKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="ch5PrimitiveTypes.ReverseDigitsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="ch5PrimitiveTypes._5_6ComputeXdivYKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="elementsOfProgrammingInterviews" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ch5PrimitiveTypes.ReverseDigitsKt" />
+      <option name="MAIN_CLASS_NAME" value="ch5PrimitiveTypes._5_6ComputeXdivYKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="ch5PrimitiveTypes._5_7ComputeXpowYKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="elementsOfProgrammingInterviews" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ch5PrimitiveTypes._5_7ComputeXpowYKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="ch5PrimitiveTypes._5_9IsNumberPalindromeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="elementsOfProgrammingInterviews" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ch5PrimitiveTypes._5_9IsNumberPalindromeKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
@@ -132,15 +165,19 @@
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.MainKt" />
-      <item itemvalue="Kotlin.ch5PrimitiveTypes.ReverseDigitsKt" />
-      <item itemvalue="Kotlin.ch5PrimitiveTypes.IntersectingRectsKt" />
+      <item itemvalue="Kotlin.ch5PrimitiveTypes._5_9IsNumberPalindromeKt" />
+      <item itemvalue="Kotlin.ch5PrimitiveTypes._5_10RandomNumberGeneratorKt" />
+      <item itemvalue="Kotlin.ch5PrimitiveTypes._5_5ComputeXxYKt" />
+      <item itemvalue="Kotlin.ch5PrimitiveTypes._5_7ComputeXpowYKt" />
+      <item itemvalue="Kotlin.ch5PrimitiveTypes._5_6ComputeXdivYKt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.ch5PrimitiveTypes.ReverseDigitsKt" />
-        <item itemvalue="Kotlin.ch5PrimitiveTypes.IntersectingRectsKt" />
-        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.ch5PrimitiveTypes._5_6ComputeXdivYKt" />
+        <item itemvalue="Kotlin.ch5PrimitiveTypes._5_7ComputeXpowYKt" />
+        <item itemvalue="Kotlin.ch5PrimitiveTypes._5_5ComputeXxYKt" />
+        <item itemvalue="Kotlin.ch5PrimitiveTypes._5_10RandomNumberGeneratorKt" />
+        <item itemvalue="Kotlin.ch5PrimitiveTypes._5_9IsNumberPalindromeKt" />
       </list>
     </recent_temporary>
   </component>
@@ -152,6 +189,56 @@
       <option name="presentableId" value="Default" />
       <updated>1529789579662</updated>
     </task>
+    <task id="LOCAL-00001" summary="rename files to include problem number">
+      <created>1529829401151</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1529829401151</updated>
+    </task>
+    <task id="LOCAL-00002" summary="check if number is a palindrome using O(1) memory">
+      <created>1529956412401</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1529956412401</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add time complexity info">
+      <created>1529956481069</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1529956481069</updated>
+    </task>
+    <task id="LOCAL-00004" summary="rename to include problem number">
+      <created>1529956577915</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1529956577915</updated>
+    </task>
+    <task id="LOCAL-00005" summary="rename files to include problem number">
+      <created>1530987822287</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1530987822287</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add compute multiplication with only bitwise operations">
+      <created>1530988616536</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1530988616536</updated>
+    </task>
+    <task id="LOCAL-00007" summary="compute XxY is problem 5.5 not 5.7,&#10;add solution to problem 5.7">
+      <created>1531342667564</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1531342667564</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -159,37 +246,71 @@
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.3295238" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="REPL" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295238" />
-      <window_info anchor="right" id="Leiningen" />
-      <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3295238" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="REPL" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32857144" />
+      <window_info anchor="right" id="Leiningen" order="3" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21845238" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="check if number is a palindrome using O(1) memory" />
+    <MESSAGE value="add time complexity info" />
+    <MESSAGE value="rename to include problem number" />
+    <MESSAGE value="rename files to include problem number" />
+    <MESSAGE value="add compute multiplication with only bitwise operations" />
+    <MESSAGE value="compute XxY is problem 5.5 not 5.7,&#10;add solution to problem 5.7" />
+    <option name="LAST_COMMIT_MESSAGE" value="compute XxY is problem 5.5 not 5.7,&#10;add solution to problem 5.7" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="7" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>result.shl(1)</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>randomBit()</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>1.shl(1)</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>1.shl(2)</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>1.shl(0)</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>num / 10</expression-string>
         <language-id>kotlin</language-id>
@@ -203,8 +324,75 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/elementsOfProgrammingInterviews.iml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.7ComputeXpowY.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.7ComputeXpowY.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.5ComputeXxY.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.10RandomNumberGenerator.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.10RandomNumberGenerator.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.10RandomNumberGenerator.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.10RandomNumberGenerator.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.10RandomNumberGenerator.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.8ReverseDigits.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.8ReverseDigits.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.kt">
       <provider selected="true" editor-type-id="text-editor">
@@ -220,20 +408,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/IntersectingRects.kt">
+    <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.11IntersectingRects.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="754">
           <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
-          <folding>
-            <element signature="e#27#72#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/ReverseDigits.kt">
+    <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.8ReverseDigits.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.9IsNumberPalindrome.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/jdk/Contents/Home/jre/lib/rt.jar!/java/util/Random.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="45" column="15" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.10RandomNumberGenerator.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.5ComputeXxY.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.7ComputeXpowY.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.6ComputeXdivY.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
         </state>
       </provider>
     </entry>
