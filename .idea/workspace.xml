@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9224469-994e-4d06-b4ce-428010348ffc" name="Default" comment="add problem">
-      <change afterPath="$PROJECT_DIR$/src/ch5PrimitiveTypes/5.6ComputeXdivY.kt" afterDir="false" />
+    <list default="true" id="c9224469-994e-4d06-b4ce-428010348ffc" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ch5PrimitiveTypes/5.2SwapBits.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/elementsOfProgrammingInterviews/META-INF/elementsOfProgrammingInterviews.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="5.6ComputeXdivY.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.6ComputeXdivY.kt">
+      <file leaf-file-name="5.2SwapBits.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.2SwapBits.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+            <state relative-caret-position="260">
+              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -48,6 +47,7 @@
         <option value="$PROJECT_DIR$/src/ch5PrimitiveTypes/5.7ComputeXxY.kt" />
         <option value="$PROJECT_DIR$/src/ch5PrimitiveTypes/5.7ComputeXpowY.kt" />
         <option value="$PROJECT_DIR$/src/ch5PrimitiveTypes/5.6ComputeXdivY.kt" />
+        <option value="$PROJECT_DIR$/src/ch5PrimitiveTypes/5.2SwapBits.kt" />
       </list>
     </option>
   </component>
@@ -60,8 +60,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -84,6 +82,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -102,7 +102,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.ch5PrimitiveTypes._5_6ComputeXdivYKt">
+  <component name="RunManager" selected="Kotlin.ch5PrimitiveTypes._5_2SwapBitsKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -114,6 +114,16 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="ch5PrimitiveTypes._5_10RandomNumberGeneratorKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="ch5PrimitiveTypes._5_2SwapBitsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="elementsOfProgrammingInterviews" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ch5PrimitiveTypes._5_2SwapBitsKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="ch5PrimitiveTypes._5_5ComputeXxYKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -146,16 +156,6 @@
       <option name="MAIN_CLASS_NAME" value="ch5PrimitiveTypes._5_7ComputeXpowYKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="ch5PrimitiveTypes._5_9IsNumberPalindromeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="elementsOfProgrammingInterviews" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ch5PrimitiveTypes._5_9IsNumberPalindromeKt" />
-      <option name="WORKING_DIRECTORY" />
-    </configuration>
     <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -165,19 +165,19 @@
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.ch5PrimitiveTypes._5_9IsNumberPalindromeKt" />
       <item itemvalue="Kotlin.ch5PrimitiveTypes._5_10RandomNumberGeneratorKt" />
       <item itemvalue="Kotlin.ch5PrimitiveTypes._5_5ComputeXxYKt" />
       <item itemvalue="Kotlin.ch5PrimitiveTypes._5_7ComputeXpowYKt" />
       <item itemvalue="Kotlin.ch5PrimitiveTypes._5_6ComputeXdivYKt" />
+      <item itemvalue="Kotlin.ch5PrimitiveTypes._5_2SwapBitsKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ch5PrimitiveTypes._5_2SwapBitsKt" />
         <item itemvalue="Kotlin.ch5PrimitiveTypes._5_6ComputeXdivYKt" />
         <item itemvalue="Kotlin.ch5PrimitiveTypes._5_7ComputeXpowYKt" />
         <item itemvalue="Kotlin.ch5PrimitiveTypes._5_5ComputeXxYKt" />
         <item itemvalue="Kotlin.ch5PrimitiveTypes._5_10RandomNumberGeneratorKt" />
-        <item itemvalue="Kotlin.ch5PrimitiveTypes._5_9IsNumberPalindromeKt" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +238,21 @@
       <option name="project" value="LOCAL" />
       <updated>1531342667564</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add code for problem 5.6">
+      <created>1531427412574</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1531427412574</updated>
+    </task>
+    <task id="LOCAL-00009" summary="idea config changes">
+      <created>1531427429814</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1531427429814</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -277,7 +291,9 @@
     <MESSAGE value="rename files to include problem number" />
     <MESSAGE value="add compute multiplication with only bitwise operations" />
     <MESSAGE value="compute XxY is problem 5.5 not 5.7,&#10;add solution to problem 5.7" />
-    <option name="LAST_COMMIT_MESSAGE" value="compute XxY is problem 5.5 not 5.7,&#10;add solution to problem 5.7" />
+    <MESSAGE value="add code for problem 5.6" />
+    <MESSAGE value="idea config changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="idea config changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -324,6 +340,13 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.6ComputeXdivY.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.7ComputeXpowY.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -459,8 +482,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.6ComputeXdivY.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        <state relative-caret-position="78">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.2SwapBits.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
         </state>
       </provider>
     </entry>
