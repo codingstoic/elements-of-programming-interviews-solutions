@@ -1,6 +1,6 @@
 package ch5PrimitiveTypes
 
-val cache = arrayOf(-1,-1,-1,-1)
+private val cache = arrayOf(-1,-1,-1,-1)
 
 fun main(args: Array<String>) {
     println(parity(234))
