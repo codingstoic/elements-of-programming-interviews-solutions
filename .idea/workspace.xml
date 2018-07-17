@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9224469-994e-4d06-b4ce-428010348ffc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch5PrimitiveTypes/5.3ReverseBits.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch5PrimitiveTypes/5.4ClosesWeight.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch5PrimitiveTypes/5.1WordParity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5PrimitiveTypes/5.1WordParity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/elementsOfProgrammingInterviews/META-INF/elementsOfProgrammingInterviews.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/elementsOfProgrammingInterviews/META-INF/elementsOfProgrammingInterviews.kotlin_module" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="5.3ReverseBits.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.3ReverseBits.kt">
+      <file leaf-file-name="5.4ClosesWeight.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.4ClosesWeight.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+            <state relative-caret-position="78">
+              <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -51,6 +51,7 @@
         <option value="$PROJECT_DIR$/src/ch5PrimitiveTypes/5.2SwapBits.kt" />
         <option value="$PROJECT_DIR$/src/ch5PrimitiveTypes/5.1WordParity.kt" />
         <option value="$PROJECT_DIR$/src/ch5PrimitiveTypes/5.3ReverseBits.kt" />
+        <option value="$PROJECT_DIR$/src/ch5PrimitiveTypes/5.4ClosesWeight.kt" />
       </list>
     </option>
   </component>
@@ -64,6 +65,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -86,7 +88,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -105,7 +106,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.ch5PrimitiveTypes._5_3ReverseBitsKt">
+  <component name="RunManager" selected="Kotlin.ch5PrimitiveTypes._5_4ClosesWeightKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -139,6 +140,16 @@
       <option name="MAIN_CLASS_NAME" value="ch5PrimitiveTypes._5_3ReverseBitsKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
+    <configuration name="ch5PrimitiveTypes._5_4ClosesWeightKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="elementsOfProgrammingInterviews" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ch5PrimitiveTypes._5_4ClosesWeightKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
     <configuration name="ch5PrimitiveTypes._5_6ComputeXdivYKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="elementsOfProgrammingInterviews" />
       <option name="VM_PARAMETERS" />
@@ -147,16 +158,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="ch5PrimitiveTypes._5_6ComputeXdivYKt" />
-      <option name="WORKING_DIRECTORY" />
-    </configuration>
-    <configuration name="ch5PrimitiveTypes._5_7ComputeXpowYKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="elementsOfProgrammingInterviews" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ch5PrimitiveTypes._5_7ComputeXpowYKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
@@ -168,19 +169,19 @@
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.ch5PrimitiveTypes._5_7ComputeXpowYKt" />
       <item itemvalue="Kotlin.ch5PrimitiveTypes._5_6ComputeXdivYKt" />
       <item itemvalue="Kotlin.ch5PrimitiveTypes._5_2SwapBitsKt" />
       <item itemvalue="Kotlin.ch5PrimitiveTypes._5_1WordParityKt" />
       <item itemvalue="Kotlin.ch5PrimitiveTypes._5_3ReverseBitsKt" />
+      <item itemvalue="Kotlin.ch5PrimitiveTypes._5_4ClosesWeightKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ch5PrimitiveTypes._5_4ClosesWeightKt" />
         <item itemvalue="Kotlin.ch5PrimitiveTypes._5_3ReverseBitsKt" />
         <item itemvalue="Kotlin.ch5PrimitiveTypes._5_1WordParityKt" />
         <item itemvalue="Kotlin.ch5PrimitiveTypes._5_2SwapBitsKt" />
         <item itemvalue="Kotlin.ch5PrimitiveTypes._5_6ComputeXdivYKt" />
-        <item itemvalue="Kotlin.ch5PrimitiveTypes._5_7ComputeXpowYKt" />
       </list>
     </recent_temporary>
   </component>
@@ -269,23 +270,29 @@
       <option name="project" value="LOCAL" />
       <updated>1531688009817</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="make cache arrays private to avoid collision,&#10;add solution to problem 5.3 reverse bits">
+      <created>1531776529891</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1531776529892</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21845238" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3295238" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="REPL" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32857144" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32857144" />
       <window_info anchor="right" id="Leiningen" order="3" />
-      <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21845238" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -296,6 +303,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3295238" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -312,7 +320,8 @@
     <MESSAGE value="idea config changes" />
     <MESSAGE value="add solution to problem number 5.2,&#10;idea changes" />
     <MESSAGE value="add solution to problem number 5.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add solution to problem number 5.1" />
+    <MESSAGE value="make cache arrays private to avoid collision,&#10;add solution to problem 5.3 reverse bits" />
+    <option name="LAST_COMMIT_MESSAGE" value="make cache arrays private to avoid collision,&#10;add solution to problem 5.3 reverse bits" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -359,6 +368,13 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.3ReverseBits.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.1WordParity.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="754">
@@ -536,8 +552,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.3ReverseBits.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+        <state relative-caret-position="503">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.4ClosesWeight.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
         </state>
       </provider>
     </entry>
