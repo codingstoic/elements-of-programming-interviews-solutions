@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9224469-994e-4d06-b4ce-428010348ffc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch5PrimitiveTypes/5.4ClosesWeight.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch6Arrays/6.1DutchFlag.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/elementsOfProgrammingInterviews/META-INF/elementsOfProgrammingInterviews.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/elementsOfProgrammingInterviews/META-INF/elementsOfProgrammingInterviews.kotlin_module" afterDir="false" />
     </list>
@@ -16,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="5.4ClosesWeight.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.4ClosesWeight.kt">
+      <file leaf-file-name="6.1DutchFlag.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ch6Arrays/6.1DutchFlag.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+            <state relative-caret-position="617">
+              <caret line="98" column="3" selection-start-line="98" selection-start-column="3" selection-end-line="98" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -52,6 +52,7 @@
         <option value="$PROJECT_DIR$/src/ch5PrimitiveTypes/5.1WordParity.kt" />
         <option value="$PROJECT_DIR$/src/ch5PrimitiveTypes/5.3ReverseBits.kt" />
         <option value="$PROJECT_DIR$/src/ch5PrimitiveTypes/5.4ClosesWeight.kt" />
+        <option value="$PROJECT_DIR$/src/ch6Arrays/6.1DutchFlag.kt" />
       </list>
     </option>
   </component>
@@ -64,8 +65,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -82,12 +81,14 @@
               <item name="ElementsOfProgrammingInterviews" type="b2602c69:ProjectViewProjectNode" />
               <item name="elementsOfProgrammingInterviews" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ch5PrimitiveTypes" type="462c0819:PsiDirectoryNode" />
+              <item name="ch6Arrays" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -106,7 +107,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.ch5PrimitiveTypes._5_4ClosesWeightKt">
+  <component name="RunManager" selected="Kotlin.ch6Arrays._6_1DutchFlagKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -150,14 +151,14 @@
       <option name="MAIN_CLASS_NAME" value="ch5PrimitiveTypes._5_4ClosesWeightKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="ch5PrimitiveTypes._5_6ComputeXdivYKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="ch6Arrays._6_1DutchFlagKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="elementsOfProgrammingInterviews" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ch5PrimitiveTypes._5_6ComputeXdivYKt" />
+      <option name="MAIN_CLASS_NAME" value="ch6Arrays._6_1DutchFlagKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
@@ -169,19 +170,19 @@
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.ch5PrimitiveTypes._5_6ComputeXdivYKt" />
       <item itemvalue="Kotlin.ch5PrimitiveTypes._5_2SwapBitsKt" />
       <item itemvalue="Kotlin.ch5PrimitiveTypes._5_1WordParityKt" />
       <item itemvalue="Kotlin.ch5PrimitiveTypes._5_3ReverseBitsKt" />
       <item itemvalue="Kotlin.ch5PrimitiveTypes._5_4ClosesWeightKt" />
+      <item itemvalue="Kotlin.ch6Arrays._6_1DutchFlagKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ch6Arrays._6_1DutchFlagKt" />
         <item itemvalue="Kotlin.ch5PrimitiveTypes._5_4ClosesWeightKt" />
         <item itemvalue="Kotlin.ch5PrimitiveTypes._5_3ReverseBitsKt" />
         <item itemvalue="Kotlin.ch5PrimitiveTypes._5_1WordParityKt" />
         <item itemvalue="Kotlin.ch5PrimitiveTypes._5_2SwapBitsKt" />
-        <item itemvalue="Kotlin.ch5PrimitiveTypes._5_6ComputeXdivYKt" />
       </list>
     </recent_temporary>
   </component>
@@ -277,22 +278,30 @@
       <option name="project" value="LOCAL" />
       <updated>1531776529892</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add solution to 5.4">
+      <created>1531860175111</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1531860175112</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21845238" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3295238" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="REPL" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32857144" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32857144" />
       <window_info anchor="right" id="Leiningen" order="3" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21845238" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -303,7 +312,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3295238" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -321,7 +329,8 @@
     <MESSAGE value="add solution to problem number 5.2,&#10;idea changes" />
     <MESSAGE value="add solution to problem number 5.1" />
     <MESSAGE value="make cache arrays private to avoid collision,&#10;add solution to problem 5.3 reverse bits" />
-    <option name="LAST_COMMIT_MESSAGE" value="make cache arrays private to avoid collision,&#10;add solution to problem 5.3 reverse bits" />
+    <MESSAGE value="add solution to 5.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="add solution to 5.4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -368,6 +377,20 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ch6Arrays/6.1DutchFlag.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1586">
+          <caret line="61" column="45" lean-forward="true" selection-start-line="61" selection-start-column="45" selection-end-line="61" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.4ClosesWeight.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.3ReverseBits.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="624">
@@ -559,8 +582,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch5PrimitiveTypes/5.4ClosesWeight.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        <state relative-caret-position="468">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Arrays.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="93" column="21" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch6Arrays/6.1DutchFlag.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="98" column="3" selection-start-line="98" selection-start-column="3" selection-end-line="98" selection-end-column="3" />
         </state>
       </provider>
     </entry>
