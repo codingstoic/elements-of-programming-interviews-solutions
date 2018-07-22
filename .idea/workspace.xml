@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9224469-994e-4d06-b4ce-428010348ffc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch6Arrays/6.1DutchFlag.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/elementsOfProgrammingInterviews/META-INF/elementsOfProgrammingInterviews.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/elementsOfProgrammingInterviews/META-INF/elementsOfProgrammingInterviews.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch6Arrays/6.1DutchFlag.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch6Arrays/6.1DutchFlag.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +18,8 @@
       <file leaf-file-name="6.1DutchFlag.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ch6Arrays/6.1DutchFlag.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="617">
-              <caret line="98" column="3" selection-start-line="98" selection-start-column="3" selection-end-line="98" selection-end-column="3" />
+            <state relative-caret-position="185">
+              <caret line="133" column="33" selection-start-line="133" selection-start-column="33" selection-end-line="133" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -65,6 +64,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -87,8 +88,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -285,7 +284,14 @@
       <option name="project" value="LOCAL" />
       <updated>1531860175112</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add solution to problem 6.1">
+      <created>1532037070679</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1532037070679</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -330,7 +336,8 @@
     <MESSAGE value="add solution to problem number 5.1" />
     <MESSAGE value="make cache arrays private to avoid collision,&#10;add solution to problem 5.3 reverse bits" />
     <MESSAGE value="add solution to 5.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="add solution to 5.4" />
+    <MESSAGE value="add solution to problem 6.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add solution to problem 6.1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -377,6 +384,13 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ch6Arrays/6.1DutchFlag.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="90" column="22" lean-forward="true" selection-start-line="90" selection-start-column="22" selection-end-line="90" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ch6Arrays/6.1DutchFlag.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1586">
@@ -596,8 +610,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch6Arrays/6.1DutchFlag.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="617">
-          <caret line="98" column="3" selection-start-line="98" selection-start-column="3" selection-end-line="98" selection-end-column="3" />
+        <state relative-caret-position="185">
+          <caret line="133" column="33" selection-start-line="133" selection-start-column="33" selection-end-line="133" selection-end-column="33" />
         </state>
       </provider>
     </entry>
