@@ -8,6 +8,10 @@ enum class FourCategories {
     CATEGORY_1, CATEGORY_2, CATEGORY_3, CATEGORY_4
 }
 
+enum class TwoCategories {
+    TRUE, FALSE
+}
+
 fun main(args: Array<String>) {
     variant1(arrayOf(
             ThreeCategories.CATEGORY_3,
@@ -36,9 +40,22 @@ fun main(args: Array<String>) {
         print(it)
         print(" ")
     }
+
+    println()
+
+    variant3(arrayOf(
+            TwoCategories.FALSE,
+            TwoCategories.TRUE,
+            TwoCategories.TRUE,
+            TwoCategories.TRUE,
+            TwoCategories.FALSE)).forEach {
+        print(it)
+        print(" ")
+    }
 }
 
 // sort an array such that elements wit the same category appear together
+// items can be in one of three categories
 fun variant1(items: Array<ThreeCategories>): Array<ThreeCategories> {
     var groupOneRMI = 0
     var groupTwoRMI = 0
@@ -56,6 +73,8 @@ fun variant1(items: Array<ThreeCategories>): Array<ThreeCategories> {
     return items
 }
 
+// reorder the array such that
+// items can be in one of four categories
 fun variant2(items: Array<FourCategories>): Array<FourCategories> {
     var group1RMI = 0
     var group2RMI = 0
@@ -79,6 +98,21 @@ fun variant2(items: Array<FourCategories>): Array<FourCategories> {
                 items.swap(group3LMI, group1RMI++)
                 items.swap(group3LMI, group2RMI++)
             }
+        }
+    }
+
+    return items
+}
+
+// sort false category items to be first in the array
+fun variant3(items: Array<TwoCategories>): Array<TwoCategories> {
+    var firstGroupIndex = 0
+    var lastGroupIndex = items.size - 1
+
+    while(firstGroupIndex < lastGroupIndex){
+        when{
+            items[firstGroupIndex] == TwoCategories.FALSE -> firstGroupIndex++
+            else -> items.swap(firstGroupIndex, lastGroupIndex--)
         }
     }
 

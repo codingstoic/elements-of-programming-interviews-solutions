@@ -18,8 +18,8 @@
       <file leaf-file-name="6.1Variations.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ch6Arrays/6.1Variations.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="51" column="59" selection-start-line="51" selection-start-column="59" selection-end-line="51" selection-end-column="59" />
+            <state relative-caret-position="588">
+              <caret line="47" column="12" lean-forward="true" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -52,6 +52,7 @@
         <option value="$PROJECT_DIR$/src/ch5PrimitiveTypes/5.3ReverseBits.kt" />
         <option value="$PROJECT_DIR$/src/ch5PrimitiveTypes/5.4ClosesWeight.kt" />
         <option value="$PROJECT_DIR$/src/ch6Arrays/6.1DutchFlag.kt" />
+        <option value="$PROJECT_DIR$/src/ch6Arrays/Utils.kt" />
         <option value="$PROJECT_DIR$/src/ch6Arrays/6.1Variations.kt" />
       </list>
     </option>
@@ -306,7 +307,21 @@
       <option name="project" value="LOCAL" />
       <updated>1532247983234</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="add solution to variant 2">
+      <created>1532251187064</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1532251187064</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add generic swap function extension">
+      <created>1532251419463</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1532251419463</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -319,10 +334,10 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="REPL" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32857144" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32857144" />
       <window_info anchor="right" id="Leiningen" order="3" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21845238" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21845238" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -354,7 +369,9 @@
     <MESSAGE value="add solution to problem 6.1" />
     <MESSAGE value="add another solution for dutch flag,&#10;add swap extension function to arrays" />
     <MESSAGE value="add solution to first variant for problem 6.1,&#10;remove unused imports" />
-    <option name="LAST_COMMIT_MESSAGE" value="add solution to first variant for problem 6.1,&#10;remove unused imports" />
+    <MESSAGE value="add solution to variant 2" />
+    <MESSAGE value="add generic swap function extension" />
+    <option name="LAST_COMMIT_MESSAGE" value="add generic swap function extension" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -627,15 +644,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch6Arrays/6.1DutchFlag.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1917">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="549">
+          <caret line="129" selection-start-line="129" selection-end-line="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch6Arrays/Utils.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch6Arrays/6.1Variations.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="51" column="59" selection-start-line="51" selection-start-column="59" selection-end-line="51" selection-end-column="59" />
+        <state relative-caret-position="588">
+          <caret line="47" column="12" lean-forward="true" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
         </state>
       </provider>
     </entry>
