@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9224469-994e-4d06-b4ce-428010348ffc" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ch6Arrays/6.1Variations.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch6Arrays/6.1DutchFlag.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch6Arrays/6.1DutchFlag.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/elementsOfProgrammingInterviews/META-INF/elementsOfProgrammingInterviews.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/elementsOfProgrammingInterviews/META-INF/elementsOfProgrammingInterviews.kotlin_module" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +16,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="6.1DutchFlag.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ch6Arrays/6.1DutchFlag.kt">
+      <file leaf-file-name="6.1Variations.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ch6Arrays/6.1Variations.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="133" column="33" selection-start-line="133" selection-start-column="33" selection-end-line="133" selection-end-column="33" />
+            <state relative-caret-position="338">
+              <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+              <folding>
+                <element signature="e#19#75#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -52,6 +56,7 @@
         <option value="$PROJECT_DIR$/src/ch5PrimitiveTypes/5.3ReverseBits.kt" />
         <option value="$PROJECT_DIR$/src/ch5PrimitiveTypes/5.4ClosesWeight.kt" />
         <option value="$PROJECT_DIR$/src/ch6Arrays/6.1DutchFlag.kt" />
+        <option value="$PROJECT_DIR$/src/ch6Arrays/6.1Variations.kt" />
       </list>
     </option>
   </component>
@@ -106,7 +111,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.ch6Arrays._6_1DutchFlagKt">
+  <component name="RunManager" selected="Kotlin.ch6Arrays._6_1VariationsKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -118,16 +123,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="ch5PrimitiveTypes._5_1WordParityKt" />
-      <option name="WORKING_DIRECTORY" />
-    </configuration>
-    <configuration name="ch5PrimitiveTypes._5_2SwapBitsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="elementsOfProgrammingInterviews" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ch5PrimitiveTypes._5_2SwapBitsKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="ch5PrimitiveTypes._5_3ReverseBitsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -160,6 +155,16 @@
       <option name="MAIN_CLASS_NAME" value="ch6Arrays._6_1DutchFlagKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
+    <configuration name="ch6Arrays._6_1VariationsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="elementsOfProgrammingInterviews" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ch6Arrays._6_1VariationsKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
     <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -169,19 +174,19 @@
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.ch5PrimitiveTypes._5_2SwapBitsKt" />
       <item itemvalue="Kotlin.ch5PrimitiveTypes._5_1WordParityKt" />
       <item itemvalue="Kotlin.ch5PrimitiveTypes._5_3ReverseBitsKt" />
       <item itemvalue="Kotlin.ch5PrimitiveTypes._5_4ClosesWeightKt" />
       <item itemvalue="Kotlin.ch6Arrays._6_1DutchFlagKt" />
+      <item itemvalue="Kotlin.ch6Arrays._6_1VariationsKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ch6Arrays._6_1VariationsKt" />
         <item itemvalue="Kotlin.ch6Arrays._6_1DutchFlagKt" />
         <item itemvalue="Kotlin.ch5PrimitiveTypes._5_4ClosesWeightKt" />
         <item itemvalue="Kotlin.ch5PrimitiveTypes._5_3ReverseBitsKt" />
         <item itemvalue="Kotlin.ch5PrimitiveTypes._5_1WordParityKt" />
-        <item itemvalue="Kotlin.ch5PrimitiveTypes._5_2SwapBitsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532037070679</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="add another solution for dutch flag,&#10;add swap extension function to arrays">
+      <created>1532246406824</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1532246406824</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -337,7 +349,8 @@
     <MESSAGE value="make cache arrays private to avoid collision,&#10;add solution to problem 5.3 reverse bits" />
     <MESSAGE value="add solution to 5.4" />
     <MESSAGE value="add solution to problem 6.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add solution to problem 6.1" />
+    <MESSAGE value="add another solution for dutch flag,&#10;add swap extension function to arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="add another solution for dutch flag,&#10;add swap extension function to arrays" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -610,8 +623,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch6Arrays/6.1DutchFlag.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="133" column="33" selection-start-line="133" selection-start-column="33" selection-end-line="133" selection-end-column="33" />
+        <state relative-caret-position="764">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch6Arrays/6.1Variations.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding>
+            <element signature="e#19#75#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

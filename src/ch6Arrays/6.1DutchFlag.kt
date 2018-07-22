@@ -1,7 +1,5 @@
 package ch6Arrays
 
-import ch5PrimitiveTypes.swap
-
 fun main(args: Array<String>) {
     solution1(arrayOf(3, 5, 4, 6, 7, 1, 2), 2).forEach {
         print(it)
