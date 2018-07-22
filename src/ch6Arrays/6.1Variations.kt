@@ -85,14 +85,3 @@ fun variant2(items: Array<FourCategories>): Array<FourCategories> {
     return items
 }
 
-fun Array<ThreeCategories>.swap(a: Int, b: Int) {
-    val tmp = this[a]
-    this[a] = this[b]
-    this[b] = tmp
-}
-
-fun Array<FourCategories>.swap(a: Int, b: Int) {
-    val tmp = this[a]
-    this[a] = this[b]
-    this[b] = tmp
-}

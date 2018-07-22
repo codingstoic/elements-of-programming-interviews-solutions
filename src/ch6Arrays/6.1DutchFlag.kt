@@ -128,8 +128,3 @@ fun solution4(numbers: Array<Int>, pivotPosition: Int): Array<Int> {
     return numbers
 }
 
-fun Array<Int>.swap(a: Int, b: Int){
-    val tmp = this[a]
-    this[a] = this[b]
-    this[b] = tmp
-}
