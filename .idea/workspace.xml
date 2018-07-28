@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9224469-994e-4d06-b4ce-428010348ffc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch6Arrays/6.2SumNumbers.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/elementsOfProgrammingInterviews/META-INF/elementsOfProgrammingInterviews.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/elementsOfProgrammingInterviews/META-INF/elementsOfProgrammingInterviews.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch6Arrays/6.2AddOneToBinary.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch6Arrays/6.2IncrementArbitraryPrecisionNumber.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="6.2SumNumbers.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ch6Arrays/6.2SumNumbers.kt">
+      <file leaf-file-name="6.2IncrementArbitraryPrecisionNumber.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ch6Arrays/6.2IncrementArbitraryPrecisionNumber.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            <state relative-caret-position="442">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -56,6 +56,8 @@
         <option value="$PROJECT_DIR$/src/ch6Arrays/Utils.kt" />
         <option value="$PROJECT_DIR$/src/ch6Arrays/6.1Variations.kt" />
         <option value="$PROJECT_DIR$/src/ch6Arrays/6.2SumNumbers.kt" />
+        <option value="$PROJECT_DIR$/src/ch6Arrays/6.2AddOneToBinary.kt" />
+        <option value="$PROJECT_DIR$/src/ch6Arrays/6.2IncrementArbitraryPrecisionNumber.kt" />
       </list>
     </option>
   </component>
@@ -110,7 +112,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.ch6Arrays._6_2AddOneToBinaryKt">
+  <component name="RunManager" selected="Kotlin.ch6Arrays._6_2IncrementArbitraryPrecisionNumberKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -154,14 +156,14 @@
       <option name="MAIN_CLASS_NAME" value="ch6Arrays._6_1VariationsKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="ch6Arrays._6_2AddOneToBinaryKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="ch6Arrays._6_2IncrementArbitraryPrecisionNumberKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="elementsOfProgrammingInterviews" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ch6Arrays._6_2AddOneToBinaryKt" />
+      <option name="MAIN_CLASS_NAME" value="ch6Arrays._6_2IncrementArbitraryPrecisionNumberKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
@@ -177,11 +179,11 @@
       <item itemvalue="Kotlin.ch5PrimitiveTypes._5_4ClosesWeightKt" />
       <item itemvalue="Kotlin.ch6Arrays._6_1DutchFlagKt" />
       <item itemvalue="Kotlin.ch6Arrays._6_1VariationsKt" />
-      <item itemvalue="Kotlin.ch6Arrays._6_2AddOneToBinaryKt" />
+      <item itemvalue="Kotlin.ch6Arrays._6_2IncrementArbitraryPrecisionNumberKt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.ch6Arrays._6_2AddOneToBinaryKt" />
+        <item itemvalue="Kotlin.ch6Arrays._6_2IncrementArbitraryPrecisionNumberKt" />
         <item itemvalue="Kotlin.ch6Arrays._6_1VariationsKt" />
         <item itemvalue="Kotlin.ch6Arrays._6_1DutchFlagKt" />
         <item itemvalue="Kotlin.ch5PrimitiveTypes._5_4ClosesWeightKt" />
@@ -330,7 +332,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532252102190</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="implement add one to binary">
+      <created>1532780237015</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1532780237015</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -381,7 +390,8 @@
     <MESSAGE value="add solution to variant 2" />
     <MESSAGE value="add generic swap function extension" />
     <MESSAGE value="add solution to variant 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="add solution to variant 3" />
+    <MESSAGE value="implement add one to binary" />
+    <option name="LAST_COMMIT_MESSAGE" value="implement add one to binary" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -680,10 +690,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch6Arrays/6.2SumNumbers.kt">
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/generated/_Ranges.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        <state relative-caret-position="235">
+          <caret line="303" column="21" selection-start-line="303" selection-start-column="21" selection-end-line="303" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch6Arrays/6.2IncrementArbitraryPrecisionNumber.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
         </state>
       </provider>
     </entry>
