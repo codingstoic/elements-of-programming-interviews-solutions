@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9224469-994e-4d06-b4ce-428010348ffc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/elementsOfProgrammingInterviews/META-INF/elementsOfProgrammingInterviews.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/elementsOfProgrammingInterviews/META-INF/elementsOfProgrammingInterviews.kotlin_module" afterDir="false" />
-    </list>
+    <list default="true" id="c9224469-994e-4d06-b4ce-428010348ffc" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +15,8 @@
       <file leaf-file-name="6.4AdvanceThroughArray.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ch6Arrays/6.4AdvanceThroughArray.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+            <state relative-caret-position="208">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -58,6 +55,7 @@
         <option value="$PROJECT_DIR$/src/ch6Arrays/6.2AddOneToBinary.kt" />
         <option value="$PROJECT_DIR$/src/ch6Arrays/6.2IncrementArbitraryPrecisionNumber.kt" />
         <option value="$PROJECT_DIR$/src/ch6Arrays/6.3AdvanceThroughArray.kt" />
+        <option value="$PROJECT_DIR$/src/ch6Arrays/6.4AdvanceThroughArray.kt" />
       </list>
     </option>
   </component>
@@ -359,7 +357,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532811847738</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="add a solution for problem 6.4">
+      <created>1532924419755</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1532924419755</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -413,7 +418,8 @@
     <MESSAGE value="implement add one to binary" />
     <MESSAGE value="convert the solution to work on decimal instead of binary" />
     <MESSAGE value="add variant for problem 6.2, two version one is hard coded with ifs other one is bitwise" />
-    <option name="LAST_COMMIT_MESSAGE" value="add variant for problem 6.2, two version one is hard coded with ifs other one is bitwise" />
+    <MESSAGE value="add a solution for problem 6.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="add a solution for problem 6.4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -752,8 +758,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch6Arrays/6.4AdvanceThroughArray.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        <state relative-caret-position="208">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
